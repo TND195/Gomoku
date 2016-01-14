@@ -1,0 +1,122 @@
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\hinhvuong.baml
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Image\Chess\ChessO_1.baml
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\hinhvuong.g.cs
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Image\Chess\ChessO_1.g.cs
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Image\Chess\ChessX_1.baml
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Image\Chess\ChessX_1.g.cs
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Cucarotxinhxan\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Cucarotxinhxan\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\Cucarotxinhxan\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Cucarotxinhxan\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Cucarotxinhxan\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\Cucarotxinhxan\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\Cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.licenses
+C:\Users\Cucarotxinhxan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\DevExpress.Images.v15.1.dll
+C:\Users\Cucarotxinhxan\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\ChatMessage.baml
+C:\Users\Cucarotxinhxan\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\ChatMessage.g.cs
+C:\Users\Cucarotxinhxan\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\Cucarotxinhxan\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cucarotxinhxan\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\Cucarotxinhxan\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WebSocket4Net.dll
+C:\Users\Cucarotxinhxan\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cucarotxinhxan\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\bin\Debug\DevExpress.Images.v15.1.dll
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\ChatMessage.baml
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\hinhvuong.baml
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\Image\Chess\ChessO_1.baml
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\Image\Chess\ChessX_1.baml
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\ChatMessage.g.cs
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\hinhvuong.g.cs
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\Image\Chess\ChessO_1.g.cs
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\Image\Chess\ChessX_1.g.cs
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\obj\Debug\WpfApplication1.exe.licenses
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\bin\Debug\WebSocket4Net.dll
+C:\Users\NGUYENTUANANH\Downloads\1312009_8\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\bin\Debug\DevExpress.Images.v15.2.dll
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\bin\Debug\WebSocket4Net.dll
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\ChatMessage.baml
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\hinhvuong.baml
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\Image\Chess\ChessO_1.baml
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\Image\Chess\ChessX_1.baml
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\ChatMessage.g.cs
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\hinhvuong.g.cs
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\Image\Chess\ChessO_1.g.cs
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\Image\Chess\ChessX_1.g.cs
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\WpfApplication1.exe.licenses
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\NGUYENTUANANH\Desktop\vandapwin\1312009\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\bin\Debug\DevExpress.Images.v15.1.dll
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\bin\Debug\WebSocket4Net.dll
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\obj\Debug\ChatMessage.baml
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\obj\Debug\ChatMessage.g.cs
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\obj\Debug\WpfApplication1.exe.licenses
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\truon_000\Downloads\tronggomokucogomoku-master\tronggomokucogomoku-master\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
