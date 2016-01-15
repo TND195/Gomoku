@@ -139,11 +139,6 @@ namespace WpfApplication1
                 {
                     BanCo.OnWin();//Khai báo sư kiện Win
                     BanCo.OnWinOrLose();//Hiển thị 5 ô Win.
-                    ChatMessage chatMessage = new ChatMessage("Server", DateTime.Now.ToString("hh:mm:ss tt"), name+ " là người thắng");
-                    chatBox.VerticalAlignment = System.Windows.VerticalAlignment.Top;
-                    chatBox.HorizontalAlignment = System.Windows.HorizontalAlignment.Stretch;
-                    chatBox.Items.Add(chatMessage);
-                    btnstart.Content = "New game";
                     newgame1 = true;
                 }
                 else
