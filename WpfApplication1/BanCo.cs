@@ -683,10 +683,23 @@ namespace WpfApplication1
             return Player.None;
         }
         //Hàm lấy thông tin 5 ô Win hoặc Lose
-        public static void OnWinOrLose()
+       public static void OnWinOrLose()
         {
-     
-          
+
+
+            Node node = new Node();
+            for (int i = 0; i < 5; i++)
+            {
+                node = OWin.GiaTri[i];
+                Image Chess1 = new Image();
+                Chess1.Source = new BitmapImage(new Uri("pack://application:,,,/Image/Chess/CT.png"));
+                Chess1.Width = Chess1.Height = length;
+                Chess1.HorizontalAlignment = 0;
+                Chess1.VerticalAlignment = 0;
+                Chess1.Margin = new Thickness(node.Column * length - 2, node.Row * length - 3, 0, 0);
+                Chess1.Opacity = 100;
+                grdBanCo.Children.Add(Chess1);
+            }
         }
 
         public static void DrawDataBoard(int rw, int cl, bool record, bool type)
